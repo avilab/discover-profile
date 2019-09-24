@@ -92,7 +92,7 @@ filter_viruses:
   time: 120
 blastn_nt:
   mem: 40
-  time: 480
+  time: 720
 blastx_nr:
   mem: 40
   time: 240
