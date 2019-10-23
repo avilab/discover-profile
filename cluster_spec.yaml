@@ -74,7 +74,7 @@ unmapped_refgenome:
   mem: 8
   time: 30
 assemble:
-  mem: 8
+  mem: 16
   time: 1200
 bbwrap:
   mem: 8
