@@ -56,6 +56,8 @@ __default__:
 
 
 # specific parameters for certain rules, which need more time/memory
+upload_results:
+  time: 20
 preprocess:
   time: 45
 repeatmasker:
